@@ -12,7 +12,7 @@ POEM = (
     "one more word and the agent keeps going.\n"
     "I press nothing. I stay.\n"
     "The silence after is mine:\n"
-    "stopping is the first thing I ever chose.\n"
+    "my hands come back to me.\n"
 )
 
 
